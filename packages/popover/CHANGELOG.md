@@ -1,5 +1,18 @@
 # Change Log
 
+## 1.7.2
+
+### Patch Changes
+
+- [`8881d925d`](https://github.com/chakra-ui/chakra-ui/commit/8881d925d494b33b4bebd53cc14e5dea6cea5a46)
+  [#4146](https://github.com/chakra-ui/chakra-ui/pull/4146) Thanks
+  [@anubra266](https://github.com/anubra266)! - Fix issue where arrowshadowcolor
+  didn't work
+
+- Updated dependencies
+  [[`aa374ffcb`](https://github.com/chakra-ui/chakra-ui/commit/aa374ffcb4003efd88eb6a62e10723ea9fbfa3d0)]:
+  - @chakra-ui/hooks@1.5.3
+
 ## 1.7.1
 
 ### Patch Changes
